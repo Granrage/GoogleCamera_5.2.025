@@ -1,0 +1,92 @@
+40:10695 Android Annotations Support Library
+10784:11344 Android Architecture Components Core Library
+22182:11344 Android Architecture Components Lifecycle Library
+33588:11344 Android Architecture Components Lifecycle Runtime Library
+44967:10695 Android Compat Support Library
+55699:10695 Android Compatibility Library v4
+66431:10695 Android Compatibility Library v7
+77162:10695 Android Core UI Support Library
+87896:10691 Android Core Utils Support Library
+98622:10695 Android Design Support Library
+109355:10695 Android Fragments Support Library
+120087:10695 Android Graphics Support Library
+130823:10691 Android Media Compat Support Library
+141550:10695 Android Percent Support Library
+152284:10691 Android Transition Support Library
+162984:11358 CCTZ
+174360:11358 Crunchy Crypt
+185729:11358 Dagger
+197103:11357 Error Prone
+208476:11358 Google Auto
+219849:11358 Guava JDK5
+231222:11362 Guava JDK7
+242595:11358 J2ObjC
+253965:11358 JSR 250
+265335:11365 JSR 330
+276736:11358 Material Components for Android
+288109:11416 TensorFlow
+299534:11365 absl
+310910:11358 backup
+322279:11358 dimsum
+333649:11358 flexbox
+345020:11358 gemmlowp
+356387:11358 gson
+367765:10695 libnativehelper
+378470:11358 nsync
+389843:11357 pcg_random
+401218:11358 sequence_lock
+412586:11358 stubs
+423957:11358 wearable
+435331:16013 Android SDK
+451366:22655 Checker Framework
+474033:87697 Eigen 3
+561737:30206 GL
+591952:26536 GRTE
+618498:4771 Glide
+623277:4155 PNG
+627440:11232 cbc
+638684:5240 dng_sdk
+643935:20240 libcap
+664187:4276 libjpeg
+668481:5545 libjpeg-turbo
+674035:1074 swig
+675121:37100 systemc
+712240:1096 Animal Sniffer
+713347:1084 Brotli
+714452:1144 Expat XML Parser
+715607:1124 Halide
+716743:5416 Libxml2
+722175:1337 XCB library
+723521:47018 Xorg
+770550:1088 giflib
+771654:1091 libtxc_dxtn
+772754:1084 mesa
+773847:1200 tiff
+775074:1056 touchimageview_android
+776144:10691 BoringSSL
+786845:19442 ICU4C
+806299:1602 JSR 305
+807912:1946 OpenCV
+809870:2234 OpenCVX
+812113:3182 PCRE
+815313:1732 Protobuf Nano
+817066:1732 Protocol Buffers
+818806:1558 RE2
+820376:1535 XMPCore
+821921:1901 bzip2
+823832:1554 ceres
+825395:1559 cert
+826970:1481 darts_clone
+828463:1870 freebsd
+830348:2570 intrinsics
+832929:2266 lapack
+835207:4535 libxsmm
+839758:1535 xmp_toolkit
+841303:2655 zippy
+843970:1530 zstdlib
+845508:680 STL
+846196:731 UTF
+846936:694 ares
+847640:185 fft2d
+847841:252 tz database
+848102:2500 zlib
